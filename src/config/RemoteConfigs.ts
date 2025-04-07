@@ -17,6 +17,10 @@ export const RemoteConfigs: RemoteConfig[] = [
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
     },
     {
+        key: "ACL_去广告版自定义版本",
+        value: "https://raw.githubusercontent.com/littletao08/SiteRules/refs/heads/master/ACL4SSR_Online_AdblockPlus_My.ini"
+    },
+    {
         key: "ACL_多国家版",
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_MultiCountry.ini"
     },
