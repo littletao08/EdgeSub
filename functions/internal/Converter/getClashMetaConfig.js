@@ -8,9 +8,8 @@ const BasicClashConfig = {
     "log-level": "info",
     "external-controller": ":9090",
     "dns": {
-        "enable": false,
-        "nameserver": ["119.29.29.29", "223.5.5.5"],
-        "fallback": ["8.8.8.8",  "8.8.4.4",  "tls://1.0.0.1:853",  "tls://dns.google:853"]
+        "enable": true,
+        "nameserver": ["2409:8070:2000:f000::1"]
     }
 };
 
